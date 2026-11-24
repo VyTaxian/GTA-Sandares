@@ -1,0 +1,14 @@
+ENGLISH:
+Extract the "modloader" folder to the game folder. Choose between ModdedSAA or xsaa plugin. I recommend xsaa.
+Use a updated SAMPFuncs if you get erros with xsaa.
+
+RoSA is not compatible with servers that heavily modify the map, usually servers with custom launchers.
+In this case, you can extract the .txd files from inside the .img files in the "exterior" and "interior" folders, preferably from the lower resolution version of the mod. Then, place these .txd files in a separate folder in the modloader. Remember that you also need the "txdp.ide" + "world_loader.txt" files from the "exterior" folder. Open the .txt file and put a "#" in front of all lines except the line "IDE DATA/MAPS/txdp.ide". There may still be white objects in-game (without textures). To fix this, you would have to import all the textures that the server ADDED to the original .txd files of the game into RoSA, which is too complex to explain.
+
+------------------------------------------------------------------------------------------------------------------
+PORTUGUÊS:
+Extraia a pasta "modloader" para a pasta do seu jogo. Escolha entre os plugins ModdedSAA  ou xsaa. Eu recomendo xsaa.
+Use um SAMPFuncs atualizado caso você tenha erros.
+
+RoSA não é compatível com servidores que modificam muito o mapa, geralmente servidores com launchers custom.
+Nesse caso, você pode extrair os .txd de dentro dos .img da pasta "exterior" e "interior", preferencialmente da versão lower resolution do mod, aí você bota esses .txd numa pasta solta no modloader, lembrando que também precisa do "txdp.ide" + "world_loader.txt" da pasta "exterior", abra o .txt e coloque um "#" na frente de todas as linhas, exceto a linha "IDE DATA/MAPS/txdp.ide". Ainda pode ser que fique com objetos brancos in-game (sem textura), pra corrigir teria que importar no RoSA todas as texturas que o servidor ADICIONOU nos .txd originais do jogo, algo complexo demais pra explicar.

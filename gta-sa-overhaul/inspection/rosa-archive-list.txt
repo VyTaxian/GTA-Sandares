@@ -1,0 +1,161 @@
+﻿2025-10-25 02:42:46 D....            0            0  (For SAMP)
+2025-10-25 02:42:46 D....            0            0  (For SAMP)\(new) run with xsaa
+2026-03-15 03:16:16 D....            0            0  (For SAMP)\(old) Run with ModdedSAA
+2025-10-25 02:42:46 D....            0            0  (For SAMP)\modloader
+2026-07-14 23:15:17 D....            0            0  (For SAMP)\modloader\RoSA Project Evolved - SAMP
+2026-09-10 17:56:11 D....            0            0  modloader
+2026-01-09 23:11:45 D....            0            0  modloader\Proper Player Retex
+2026-09-10 17:53:50 D....            0            0  modloader\Proper Player Retex\models
+2025-12-18 05:27:23 D....            0            0  modloader\Proper Player Retex\models\models
+2025-10-25 02:43:25 D....            0            0  modloader\Proper Player Retex\models\models\txd
+2026-06-14 19:43:00 D....            0            0  modloader\RoSA Project Evolved
+2025-10-25 02:43:30 D....            0            0  modloader\RoSA Project Evolved\1-SAMP and MTA
+2025-10-25 02:43:30 D....            0            0  modloader\RoSA Project Evolved\1-SAMP and MTA\MTA
+2025-10-25 02:43:30 D....            0            0  modloader\RoSA Project Evolved\1-SAMP and MTA\SAMP
+2025-10-25 02:43:30 D....            0            0  modloader\RoSA Project Evolved\2-ImgLimitAdjuster error fix
+2025-10-25 02:43:30 D....            0            0  modloader\RoSA Project Evolved\3-Bonus Skins
+2026-06-14 18:29:34 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior
+2026-06-14 18:29:31 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files
+2026-01-21 17:30:36 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\data
+2026-01-21 17:30:36 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\data\.gg
+2026-09-10 17:51:09 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models
+2025-10-25 02:44:00 DR...            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\generic
+2025-10-25 02:44:00 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff
+2026-03-15 04:58:30 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3
+2026-06-14 18:29:41 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Scripts
+2026-06-14 19:28:07 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved -  Scripts\scripts
+2025-10-25 02:44:00 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene
+2025-10-25 02:44:00 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files
+2026-07-14 23:14:41 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models
+2025-10-25 02:44:01 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff
+2025-10-25 02:44:01 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene
+2025-10-25 02:44:01 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Interior
+2025-10-25 02:44:01 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files
+2026-09-10 17:50:54 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\models
+2025-10-25 02:44:09 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\models\rosa-dff
+2025-10-25 02:44:09 D....            0            0  modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\models\rosa-dff\gtaint
+2026-03-15 03:08:14 ....A          665   3503281674  (For SAMP)\(new) run with xsaa\READ - LEIA.txt
+2026-03-15 03:16:11 ....A         3136               (For SAMP)\(old) Run with ModdedSAA\(manual adapt) SAMP RoSA Project Evolved Adapter.zip
+2026-03-15 03:15:58 ....A          653               (For SAMP)\(old) Run with ModdedSAA\READ - LEIA.txt
+2026-07-14 23:12:58 ....A    250030080               (For SAMP)\modloader\RoSA Project Evolved - SAMP\SAMP.img
+2025-12-15 00:45:27 ....A         1957               (For SAMP)\READ - LEIA.txt
+2026-03-15 05:03:43 ....A         3751               0-Readme (HOW TO INSTALL).txt
+2026-03-15 05:03:36 ....A         3770               1-Leiame (COMO INSTALAR).txt
+2025-05-15 17:29:36 ....A           52               modloader\Proper Player Retex\1-DO NOT PUT IN MODPACKS.txt
+2025-12-06 00:55:41 ....A         1445               modloader\Proper Player Retex\Leiame.txt
+2022-04-18 08:17:07 ....A      1611944               modloader\Proper Player Retex\models\models\txd\LD_TATT.txd
+2025-12-06 00:58:05 ....A    897302528               modloader\Proper Player Retex\models\player.img
+2025-12-06 01:08:35 ....A           21               modloader\Proper Player Retex\models\player_loader.txt
+2025-12-06 00:55:48 ....A         1465               modloader\Proper Player Retex\Readme.txt
+2025-05-15 17:29:36 ....A           52               modloader\RoSA Project Evolved\1-DO NOT PUT IN MODPACKS.txt
+2024-10-14 20:50:02 ....A          344               modloader\RoSA Project Evolved\1-SAMP and MTA\MTA\About MTA.txt
+2024-10-14 20:50:24 ....A          359               modloader\RoSA Project Evolved\1-SAMP and MTA\MTA\Sobre MTA.txt
+2025-07-15 02:14:35 ....A          202               modloader\RoSA Project Evolved\1-SAMP and MTA\SAMP\READ - LEIA.txt
+2025-05-15 17:38:36 ....A          828               modloader\RoSA Project Evolved\2-acordo de licença.txt
+2024-03-14 21:23:59 ....A        44902               modloader\RoSA Project Evolved\2-ImgLimitAdjuster error fix\image.png
+2024-10-14 21:02:23 ....A          567               modloader\RoSA Project Evolved\2-ImgLimitAdjuster error fix\leiame.txt
+2024-10-14 21:02:30 ....A          576               modloader\RoSA Project Evolved\2-ImgLimitAdjuster error fix\readme.txt
+2025-05-15 17:38:31 ....A          826               modloader\RoSA Project Evolved\2-license agreement.txt
+2024-10-14 22:03:46 ....A      7952160               modloader\RoSA Project Evolved\3-Bonus Skins\Alternative Skins.7z
+2024-03-15 02:04:28 ....A          684               modloader\RoSA Project Evolved\3-Obrigado.txt
+2024-03-15 02:03:45 ....A          614               modloader\RoSA Project Evolved\3-Thanks.txt
+2021-06-08 06:52:59 ....A        11582               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\data\.gg\weapon.dat
+2024-10-26 20:22:48 ..HSA           46               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\generic\desktop.ini
+2024-09-27 17:02:12 ....A      7149372               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\generic\vehicle.txd
+2022-01-25 01:47:21 ....A    356202496               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\gta3.img
+2026-09-10 17:49:50 ....A   3289413632               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\rosa_evolved_a.img
+2026-09-10 17:50:06 ....A   3141390336               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\rosa_evolved_b.img
+2026-09-10 17:50:16 ....A   3227326464   2901755935  modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\rosa_evolved_c.img
+2026-09-10 17:50:19 ....A    455391232               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\models\rosa_evolved_d.img
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\adrenaline.dff
+2022-01-25 01:43:55 ....A        18432               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\ak47.dff
+2022-01-25 01:43:55 ....A        16384               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\armour.dff
+2022-01-25 01:43:55 ....A         8192               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\bat.dff
+2022-01-25 01:43:55 ....A        12288               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\bigdollar.dff
+2022-01-25 01:43:55 ....A         8192               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\bodyarmour.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\bomb.dff
+2022-01-25 01:43:55 ....A        16384               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\brassknuckle.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\bribe.dff
+2022-01-25 01:43:55 ....A        26624               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\camera.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\cellphone.dff
+2022-01-25 01:43:55 ....A        24576               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\chnsaw.dff
+2022-01-25 01:43:55 ....A        22528               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\chromegun.dff
+2022-01-25 01:43:55 ....A        18432               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\colt45.dff
+2022-01-25 01:43:55 ....A        36864               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\cuntgun.dff
+2022-01-25 01:43:55 ....A        20480               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\desert_eagle.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\diamond_3.dff
+2022-01-25 01:43:55 ....A        12288               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\fire_ex.dff
+2022-01-25 01:43:55 ....A        43008               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\flame.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\flare.dff
+2022-01-25 01:43:55 ....A        18432               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\flowera.dff
+2022-01-25 01:43:55 ....A         8192               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\flowerb.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\golfclub.dff
+2022-01-25 01:43:55 ....A        57344               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\grenade.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_boxbig.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_boxwee.dff
+2022-01-25 01:43:55 ....A         8192               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_cane.dff
+2022-01-25 01:43:55 ....A        61440               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_dildo1.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_dildo2.dff
+2022-01-25 01:43:55 ....A        36864               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_para.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_vibe1.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\gun_vibe2.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\health.dff
+2022-01-25 01:43:55 ....A        24576               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\heatseek.dff
+2024-10-11 23:04:40 ....A       140376               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\hern.dff
+2022-01-25 01:43:55 ....A        28672               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\irgoggles.dff
+2022-01-25 01:43:55 ....A        55296               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\jetpack.dff
+2022-01-25 01:43:55 ....A        14336               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\katana.dff
+2024-10-14 21:11:50 ....A       126467               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\kendl.dff
+2022-01-25 01:43:55 ....A        12288               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\kmb_parachute.dff
+2022-01-25 01:43:55 ....A        10240               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\knifecur.dff
+2022-01-25 01:43:55 ....A        30720               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\m4.dff
+2022-01-25 01:43:55 ....A        20480               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\micro_uzi.dff
+2022-01-25 01:43:55 ....A        51200               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\minigun.dff
+2022-01-25 01:43:55 ....A        49152               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\minigun2.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\missile.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\molotov.dff
+2022-01-25 01:43:55 ....A         2048               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\money.dff
+2022-01-25 01:43:55 ....A        38912               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\mp5lng.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\nitestick.dff
+2022-01-25 01:43:55 ....A        28672               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\nvgoggles.dff
+2022-01-25 01:43:55 ....A        14336               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\pickupsave.dff
+2022-01-25 01:43:55 ....A         8192               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\poolcue.dff
+2024-10-11 23:23:26 ....A       146136               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\pulaski.dff
+2022-01-25 01:43:55 ....A        26624               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\rocketla.dff
+2024-10-14 21:17:12 ....A       131584               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\ryder2.dff
+2024-10-14 21:11:52 ....A        84508               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\ryder3.dff
+2022-01-25 01:43:55 ....A         6144               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\satchel.dff
+2022-01-25 01:43:55 ....A        22528               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\sawnoff.dff
+2022-01-25 01:43:55 ....A        24576               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\shotgspa.dff
+2022-01-25 01:43:55 ....A        12288               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\shovel.dff
+2022-01-25 01:43:55 ....A        20480               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\silenced.dff
+2022-01-25 01:43:55 ....A        14336               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\skateboard.dff
+2025-05-26 02:34:35 ....A       160921               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\smoke.dff
+2014-03-14 22:15:56 ....A       169329               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\smokev.dff
+2022-01-25 01:43:55 ....A        92160               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\sniper.dff
+2022-01-25 01:43:55 ....A         4096               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\spraycan.dff
+2022-01-25 01:43:55 ....A        12288               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\stalks.dff
+2024-10-12 14:54:23 ....A       129467               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\sweet.dff
+2022-01-25 01:43:55 ....A        12288               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\teargas.dff
+2022-01-25 01:43:55 ....A        71680               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\tec9.dff
+2024-10-11 23:36:34 ....A       148867               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\tenpen.dff
+2024-10-12 15:58:48 ....A       133531               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\rosa-dff\gta3\truth.dff
+2021-08-18 03:43:29 ....A        36276               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\txdp.ide
+2025-12-01 00:33:46 ....A          158               modloader\RoSA Project Evolved\RoSA Project Evolved -  Exterior\Files\world_loader.txt
+2026-06-14 18:21:17 ....A        97920               modloader\RoSA Project Evolved\RoSA Project Evolved -  Scripts\scripts\SimpleLimitAdjuster_IMGfiles.asi
+2023-05-11 15:19:35 ....A           39               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\cutscene_loader.txt
+2022-01-25 01:43:31 ....A     19863552               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\cutscene.img
+2026-07-14 23:11:46 ....A    348817408               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\proper_cutscene_retex.img
+2022-01-25 01:43:02 ....A        24576               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\cs9mm.dff
+2023-10-31 18:09:46 ....A         8487               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\csbat.dff
+2021-10-18 20:53:54 ....A        12533               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\csburgerbox.dff
+2023-10-31 18:09:49 ....A        43816               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\cscamera.dff
+2022-01-25 01:43:02 ....A        24576               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\cscolt45.dff
+2022-01-25 01:43:02 ....A        28672               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\csdeserteagle.dff
+2022-01-25 01:43:02 ....A        59392               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\csjetpack.dff
+2021-09-10 16:09:13 ....A        36016               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\cspaperbag.dff
+2022-01-25 01:43:02 ....A        26624               modloader\RoSA Project Evolved\RoSA Project Evolved - Cutscene\Files\models\rosa-dff\cutscene\cssilenced.dff
+2023-05-11 15:19:43 ....A           39               modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\interior_loader.txt
+2021-08-18 03:51:57 ....A     60590080               modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\models\gta_int.img
+2026-09-10 17:50:28 ....A   2315884544               modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\models\proper_interior_retex.img
+2022-01-25 01:56:10 ....A        94208               modloader\RoSA Project Evolved\RoSA Project Evolved - Interior\Files\models\rosa-dff\gtaint\carter_statue.dff
